@@ -30,7 +30,7 @@ Conoce un poco mas sobre mi en linkedin:
 ![MSSQL](https://img.shields.io/badge/-MSSQL-ffffff?style=flat&logo=mssql)
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 
 
 ## Stats
