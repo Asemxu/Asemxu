@@ -1,45 +1,39 @@
-## Hello! <img src="https://raw.githubusercontent.com/oscargdi/oscargdi/main/wave.gif" width="30px">
+## Hola a todo el mundo! 👋
 
-My name is Oscar Diaz. I am a Software Engineer with +9 years of experience in developing web applications and backend systems, starting with Java and now working with Python and TypeScript. With expertise in development, leading teams, and working with requirements on the product side. I am interested at learning new technologies and build amazing products.  
+Full Stack Developer especialzado en el uso de diversos frameworks backend como expres , nest js , hono , .net , laravel , entre otros y front end como react , angular , svelte , vue , next js y astro. Actualmente busco epecializarme es backend developer con golang, me gustan aprender cada vez mas cosas y aplicarlas a problemas reales en el desarrollo de tecnologias de información. Soy muy entusiaste me gusta asumir y afrontar retos, me considero una persona muy paciente y abierta a trabajar en equipos. Me gusta todo tipo de desarollo de apliaciones (escritorio , web , mobile ,etc)
 
-Find out more about me and feel free to connect with me here:
+Conoce un poco mas sobre mi en linkedin:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/oscar-diaz-iberico/)](https://www.linkedin.com/in/oscar-diaz-iberico/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-white?logo=medium&logoColor=black&link=https://oscargdi.medium.com/)](https://oscargdi.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-white?logo=gmail&link=mailto:oscargdi22@gmail.com)](mailto:oscargdi22@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-white?logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/oscar-diaz-iberico/)](https://www.linkedin.com/in/renzo-jimenez-0aa142187/)
+
 
 ## Technologies
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
-![Typecript](https://img.shields.io/badge/-Typescript-ffffff?style=flat&logo=typescript)
+- ![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=flat&logo=javascript)
+- ![Typecript](https://img.shields.io/badge/-Typescript-ffffff?style=flat&logo=typescript)
+- ![PHP](https://img.shields.io/badge/-PHP-ffffff?style=flat&logo=php)
+- ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java)
+- ![Go](https://img.shields.io/badge/-Go-ffffff?style=flat&logo=go)
+- ![C++](https://img.shields.io/badge/-C++-ffffff?style=flat&logo=c++)
+- ![C#](https://img.shields.io/badge/-CSharp-ffffff?style=flat&logo=c#)
+- ![Batch](https://img.shields.io/badge/-Batch-ffffff?style=flat&logo=batch)
 
-### Frameworks
 
-![NestJS](https://img.shields.io/badge/-NestJS-ffffff?style=flat&logo=nestjs&logoColor=red)
-![FastAPI](https://img.shields.io/badge/-FastApi-ffffff?style=flat&logo=fastapi&logoColor=darkgreen)
-![Django](https://img.shields.io/badge/-Django-ffffff?style=flat&logo=django&logoColor=darkgreen)
-![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat&logo=flask&logoColor=darkgreen)
-![Selenium](https://img.shields.io/badge/-Selenium-ffffff?style=flat&logo=selenium)
+### Frameworks Actuales
+
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-ffffff?style=flat&logo=expressjs)
+![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=React)
 
 ### Databases
 
-![Postgres](https://img.shields.io/badge/-Postgres-ffffff?style=flat&logo=postgresql)
+![MSSQL](https://img.shields.io/badge/-MSSQL-ffffff?style=flat&logo=mssql)
 ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-ffffff?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-ffffff?style=flat&logo=firebase)
 
-### Others
-![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
-![AWS](https://img.shields.io/badge/-AWS-white?style=flat&logo=amazon-aws&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat&logo=kubernetes)
-![Prometheus](https://img.shields.io/badge/-Prometheus-white?style=flat&logo=prometheus)
-![Grafana](https://img.shields.io/badge/-Grafana-white?style=flat&logo=grafana)
 
 ## Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=asemxu&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asemxu&size_weight=0.5&count_weight=0.5&hide=html,css,dockerfile,makefile&layout=compact)
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=oscargdi&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscargdi&size_weight=0.5&count_weight=0.5&hide=html,css,dockerfile,makefile&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=oscargdi.oscargdi)
