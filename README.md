@@ -1,6 +1,6 @@
 ## Hola a todo el mundo! 👋
 
-Full Stack Developer especialzado en el uso de diversos frameworks backend como expres , nest js , hono , .net , laravel , entre otros y front end como react , angular , svelte , vue , next js y astro. Actualmente busco epecializarme es backend developer con golang, me gustan aprender cada vez mas cosas y aplicarlas a problemas reales en el desarrollo de tecnologias de información. Soy muy entusiaste me gusta asumir y afrontar retos, me considero una persona muy paciente y abierta a trabajar en equipos. Me gusta todo tipo de desarollo de apliaciones (escritorio , web , mobile ,etc)
+Full Stack Developer especializado en el uso de diversos frameworks backend como expres , nest js , hono , .net , laravel , entre otros y front end como react , angular , svelte , vue , next js y astro. Actualmente busco epecializarme es backend developer con golang, me gustan aprender cada vez mas cosas y aplicarlas a problemas reales en el desarrollo de tecnologias de información. Soy muy entusiaste me gusta asumir y afrontar retos, me considero una persona muy paciente y abierta a trabajar en equipos. Me gusta todo tipo de desarollo de apliaciones (escritorio , web , mobile ,etc)
 
 Conoce un poco mas sobre mi en linkedin:
 
